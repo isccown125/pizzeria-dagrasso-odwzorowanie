@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pizzeria-dagrasso-odwzorowanie/static/css/main.99020683.css",
+    "main.js": "/pizzeria-dagrasso-odwzorowanie/static/js/main.be86efb8.js",
+    "static/js/787.1e3a1bdd.chunk.js": "/pizzeria-dagrasso-odwzorowanie/static/js/787.1e3a1bdd.chunk.js",
+    "index.html": "/pizzeria-dagrasso-odwzorowanie/index.html",
+    "main.99020683.css.map": "/pizzeria-dagrasso-odwzorowanie/static/css/main.99020683.css.map",
+    "main.be86efb8.js.map": "/pizzeria-dagrasso-odwzorowanie/static/js/main.be86efb8.js.map",
+    "787.1e3a1bdd.chunk.js.map": "/pizzeria-dagrasso-odwzorowanie/static/js/787.1e3a1bdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99020683.css",
+    "static/js/main.be86efb8.js"
+  ]
+}
