@@ -1,0 +1,15 @@
+.primary-navigation{
+    display: flex;
+    width: 100%;
+    background-color: red;
+    height: 64px;
+    background-image: url("/public/images/bg-primary-nav.png");
+    background-position: center;
+    background-repeat: repeat-x;
+    justify-content: center;
+}
+.container{
+    width: 60%;
+    display: flex;
+    gap: 14px;
+}

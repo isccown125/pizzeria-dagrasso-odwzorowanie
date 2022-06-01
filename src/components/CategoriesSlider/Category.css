@@ -1,0 +1,21 @@
+.category{
+    width: 80%;
+    min-width: 100px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.category__title{
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+}
+.category__img{
+    width: 80px;
+    height: 80px;
+    display: block;
+}

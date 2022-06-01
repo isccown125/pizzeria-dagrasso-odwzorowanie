@@ -1,0 +1,65 @@
+{
+    "dodatki":
+    {
+        "ser":
+        {
+            "name": "Dodatkowy Ser",
+            "amount": "7.50",
+            "img": "/imgaes/dodatki/"
+        },
+        "serMozzarella":
+        {
+            "name": "Ser Mozzarella",
+            "amount": "7.50",
+            "img": "/imgaes/dodatki/"
+        },
+        "szynka":
+        {
+            "name": "Szynka",
+            "amount": "7.00",
+            "img": "/imgaes/dodatki/"
+        },
+        "salami":
+        {
+            "name": "Salami",
+            "amount": "7.00",
+            "img": "/imgaes/dodatki/"
+        },
+        "boczek":
+        {
+            "name": "Boczek",
+            "amount": "8.00",
+            "img": "/imgaes/dodatki/"
+        },
+        "papryczkaJalapenos":
+        {
+            "name": "Papryczka Jalapenos",
+            "amount": "6.50",
+            "img": "/imgaes/dodatki/"
+        },
+        "ser-zolty":
+        {
+            "name": "Ser Żółty",
+            "amount": "7.50",
+            "img": "/imgaes/dodatki/"
+        },
+        "ser-plesniowy":
+        {
+            "name": "Ser Pleśniowy",
+            "amount": "7.50",
+            "img": "/imgaes/dodatki/"
+        },
+        "ser-salatkowy":
+        {
+            "name": "Ser Sałatkowy",
+            "amount": "7.50",
+            "img": "/imgaes/dodatki/"
+        },
+        "brokuły":
+        {
+            "name": "Brokuły",
+            "amount": "7.0",
+            "img": "/imgaes/dodatki/"
+        }
+    }
+}

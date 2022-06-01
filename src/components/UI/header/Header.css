@@ -1,0 +1,11 @@
+header{
+    position: fixed;
+    width: 100%;
+    height: auto;
+    background-color: red;
+}
+.logo{
+    position: absolute;
+    left: 10%;
+    width: 100px;
+}
